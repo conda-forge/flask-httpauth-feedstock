@@ -1,6 +1,6 @@
 {% set name = "Flask-HTTPAuth" %}
-{% set version = "3.2.0" %}
-{% set sha256 = "cf53acd441321ff6f369ae54e423dbec8d4c6204934c13368651cdd402805b61" %}
+{% set version = "3.2.1" %}
+{% set sha256 = "c807dab42064f3184689875ecc0abb23449fdc6862f7f5ba1b6a63508e43d6b5" %}
 
 package:
   name: {{ name|lower }}
@@ -32,6 +32,7 @@ test:
 about:
   home: http://github.com/miguelgrinberg/flask-httpauth/
   license: MIT
+  license_file: LICENSE
   summary: 'Basic and Digest HTTP authentication for Flask routes'
   dev_url: http://github.com/miguelgrinberg/flask-httpauth/
 
