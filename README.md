@@ -5,11 +5,13 @@ Home: http://github.com/miguelgrinberg/flask-httpauth/
 
 Package license: MIT
 
-Feedstock license: BSD 3-Clause
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/flask-httpauth-feedstock/blob/master/LICENSE.txt)
 
 Summary: Basic and Digest HTTP authentication for Flask routes
 
+Development: http://github.com/miguelgrinberg/flask-httpauth/
 
+Documentation: http://flask-httpauth.readthedocs.io
 
 Current build status
 ====================
