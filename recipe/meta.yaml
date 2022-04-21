@@ -1,6 +1,6 @@
 {% set name = "Flask-HTTPAuth" %}
-{% set version = "4.5.0" %}
-{% set sha256 = "395040fda2854df800d15e84bc4a81a5f32f1d4a5e91eee554936f36f330aa29" %}
+{% set version = "4.6.0" %}
+{% set sha256 = "2076cf86e84c6aa442ee03344bff751eae133d35a1a48931e6f99f147161b55b" %}
 
 package:
   name: {{ name|lower }}
