@@ -11,7 +11,7 @@ Summary: Basic and Digest HTTP authentication for Flask routes
 
 Development: http://github.com/miguelgrinberg/flask-httpauth/
 
-Documentation: http://flask-httpauth.readthedocs.io
+Documentation: http://flask-httpauth.readthedocs.io/
 
 Current build status
 ====================
